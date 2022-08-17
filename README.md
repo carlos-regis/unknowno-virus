@@ -21,6 +21,7 @@ The first group project @ <Academia de Código_> bootcamp on Terceira Island, de
   + OOP
   + Git
   + Simple GFX Library
+  + ANT
 
 ## Collaborators
   + [Carlos Regis](https://github.com/carlos-regis)
