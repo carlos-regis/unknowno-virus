@@ -18,6 +18,8 @@ The first group project @ <Academia de Código_> bootcamp on Terceira Island, de
 ## Technologies
   + Java 8
   + OOP
+  + Git
+  + Simple GFX Library
 
 ## Collaborators
   + [Carlos Regis](https://github.com/carlos-regis)
